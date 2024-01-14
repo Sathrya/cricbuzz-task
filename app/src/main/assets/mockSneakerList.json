@@ -1,0 +1,292 @@
+{
+  "sneakers": [
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa5",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Bir Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa9",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa10",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa11",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa12",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa13",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa14",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa15",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Air Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa16",
+      "brand": "Nike",
+      "colorway": "Black/White",
+      "gender": "Men's",
+      "media": {
+        "imageUrl": "https://example.com/shoe-image.jpg",
+        "smallImageUrl": "https://example.com/small-shoe-image.jpg",
+        "thumbUrl": "https://example.com/thumb-shoe-image.jpg"
+      },
+      "releaseDate": "2022-12-15",
+      "retailPrice": "150",
+      "styleId": "ABC123",
+      "shoe": "Air Max",
+      "name": "Bir Max 2022",
+      "title": "Limited Edition",
+      "year": 2022
+    }
+  ]
+}

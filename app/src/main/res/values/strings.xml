@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">SneakerApp</string>
+    <string name="title">SNEAKERSHIP</string>
+    <string name="fragment_cart">Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="image">sneakerImg</string>
+    <string name="cartBtn">Add to Cart</string>
+    <string name="priceLabel">"Price : "</string>
+    <string name="totalCost">"Total Cart Value : "</string>
+    <string name="taxValue">$40</string>
+    <string name="totalAmount">"Total amount to be paid : "</string>
+    <string name="tax">"Tax and other charges : "</string>
+    <string name="checkout">CheckOut</string>
+    <string name="emptyCart">Your Cart is empty</string>
+    <string name="removed">Item removed from Cart</string>
+    <string name="added">Item added to Cart</string>
+    <string name="brand">"Brand : "</string>
+    <string name="yearOfReleaseLabel">"Release Year : "</string>
+    <string name="orderDetails">"Order Details : "</string>
 </resources>

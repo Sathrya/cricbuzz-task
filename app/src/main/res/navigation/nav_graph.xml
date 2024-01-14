@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/sneakerListFragment">
+
+    <fragment
+        android:id="@+id/sneakerListFragment"
+        android:name="com.example.sneakerapp.ui.fragments.SneakerListFragment"
+        android:label="@string/title"
+        tools:layout="@layout/fragment_sneaker_list" >
+        <action
+            android:id="@+id/action_sneakerListFragment_to_sneakerDetailsFragment"
+            app:destination="@id/sneakerDetailsFragment"
+            app:popUpTo="@id/sneakerListFragment" />
+        <action
+            android:id="@+id/action_sneakerListFragment_to_cartFragment"
+            app:destination="@id/cartFragment"
+            app:popUpTo="@id/sneakerListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sneakerDetailsFragment"
+        android:name="com.example.sneakerapp.ui.fragments.SneakerDetailsFragment"
+        android:label="Sneaker Details"
+        tools:layout="@layout/fragment_sneaker_details" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.example.sneakerapp.ui.fragments.CartFragment"
+        android:label="Your Cart"
+        tools:layout="@layout/fragment_cart" />
+</navigation>
